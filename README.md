@@ -19,16 +19,24 @@ The following classifiers were used for this project:
 <br>
 - **Artificial Neural Network (ANN)**
     * a basic machine learning model that uses a series of interconnected nodes to process and classify data.
+
 <br>
+
 - **Multinomial Logistic Regression**
     * type of regression analysis used for multi-class classification problems. It uses a linear combination of the input features to make predictions and assigns a probability to each class.
+
 <br>
+
 - **Decision Trees**
     * type of machine learning algorithm that makes predictions by recursively dividing the data into subsets based on certain rules. It is a simple and interpretable model.
+
 <br>
+
 - **Random Forests**
     *  an ensemble learning algorithm that combines multiple decision trees to make predictions. It uses random sampling of the data and features to construct multiple trees and aggregates the predictions of each tree to make a final prediction
+
 <br>
+
 - **Gradient Boosted Machines**
     * type of machine learning algorithm that uses an ensemble of decision trees to make predictions. It uses gradient descent to iteratively improve the predictions of each tree in the ensemble. 
 
